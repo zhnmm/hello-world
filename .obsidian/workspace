@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "8d6368a90eff0472",
+    "type": "split",
+    "children": [
+      {
+        "id": "373919c3ee23f567",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79bb97c3283d6fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2706a477f15da99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f0ef9f72788a810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e069be3ea64b8b94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9594edd63acc6412",
+    "type": "split",
+    "children": [
+      {
+        "id": "6694c8ebf10a1343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0859a53c57f2bb82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "373919c3ee23f567",
+  "lastOpenFiles": [
+    "未命名.md",
+    "README.md",
+    "unread/journal20220111.md.md",
+    "unread/journal20220110.md.md"
+  ]
+}
